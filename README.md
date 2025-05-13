@@ -2,11 +2,6 @@
 
 A comprehensive data analysis and visualization project focused on uncovering pricing trends, availability, spatial clusters, and host behavior across New York City Airbnb listings. This project uses powerful EDA techniques and interactive visualizations to provide actionable insights for hosts, travelers, and policymakers.
 
-> 📍 **Author**: Surya Teja Mothukuri  
-> 📘 **Institution**: Indiana University, Bloomington  
-> 🧑‍🏫 **Guide**: Dr. Yong Yeol Ahn  
-> 📧 **Email**: smothuk@iu.edu
-
 ---
 
 ## 📌 Project Overview
